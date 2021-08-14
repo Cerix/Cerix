@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cerix
 - 👀 I’m interested in Robotics and FPV Drones
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: cerix.it
 
 <!---
 Cerix/Cerix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
